@@ -10,5 +10,3 @@ Ejemplo:
     
     const [values, handleInputChange, reset] = useForm(initialForm);
 ```
-
-useCounter() // recibe un valor por defecto
